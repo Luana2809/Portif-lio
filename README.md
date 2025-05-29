@@ -1,2 +1,2 @@
-# Portif-lio
+# Portifolio
 Página contendo meus projetos escolares
